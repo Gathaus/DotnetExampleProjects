@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee02d125_002Dd2c8_002D4807_002Da658_002D90d33393ede8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetItem_WithUnexistingItem_ReturnsNotFound" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::67FFDCAA-AF5C-4FD1-90BB-819150EA5B39::net6.0::API.UnitTests.ItemControllerTests.GetItem_WithUnexistingItem_ReturnsNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::67FFDCAA-AF5C-4FD1-90BB-819150EA5B39::net6.0::API.UnitTests.ItemControllerTests.UpdateItem_WithExistingItem_NoContent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::67FFDCAA-AF5C-4FD1-90BB-819150EA5B39::net6.0::API.UnitTests.ItemControllerTests.DeleteItem_WithExistingItem_ReturnNoContent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::67FFDCAA-AF5C-4FD1-90BB-819150EA5B39::net6.0::API.UnitTests.ItemControllerTests.CreateItem_WithItemToCreate_ReturnsCreatedItem&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
