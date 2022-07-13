@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2e1dd8c3_002D4ee3_002D4ca8_002D8f79_002D9f0c7b798d60/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fb58456b_002D61e7_002D4699_002Da9e5_002D952a8530329a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Application_WithNoTechStack_ShouldTransferredToAutoRejected" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::943904AD-D6BE-43A8-9D12-DA868123DEA9::net6.0::JobApplicationLibrary.UnitTest.ApplicationEvaluateUnitTest.Application_WithNoTechStack_ShouldTransferredToAutoRejected&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::943904AD-D6BE-43A8-9D12-DA868123DEA9::net6.0::JobApplicationLibrary.UnitTest.ApplicationEvaluateUnitTest.Application_WithInValidIdentityNumber_TransferredToHr&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::943904AD-D6BE-43A8-9D12-DA868123DEA9::net6.0::JobApplicationLibrary.UnitTest.ApplicationEvaluateUnitTest.Application_WithOfficeLocation_TransferredToCTO&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::943904AD-D6BE-43A8-9D12-DA868123DEA9::net6.0::JobApplicationLibrary.UnitTest.ApplicationEvaluateUnitTest.Application_WithOver50_ValidationModeDetailed&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::943904AD-D6BE-43A8-9D12-DA868123DEA9::net6.0::JobApplicationLibrary.UnitTest.ApplicationEvaluateUnitTest.Application_WithTechStackOver75P_ShouldTransferredToAutoAccepted&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::943904AD-D6BE-43A8-9D12-DA868123DEA9::net6.0::JobApplicationLibrary.UnitTest.ApplicationEvaluateUnitTest.Application_WithNullApplicant_ThrowsArgumentNullException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

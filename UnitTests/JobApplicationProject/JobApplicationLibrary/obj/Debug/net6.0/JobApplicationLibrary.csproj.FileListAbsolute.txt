@@ -1,0 +1,12 @@
+C:\Users\MERT\RiderProjects\JobApplicationProject\JobApplicationLibrary\bin\Debug\net6.0\JobApplicationLibrary.deps.json
+C:\Users\MERT\RiderProjects\JobApplicationProject\JobApplicationLibrary\bin\Debug\net6.0\JobApplicationLibrary.dll
+C:\Users\MERT\RiderProjects\JobApplicationProject\JobApplicationLibrary\bin\Debug\net6.0\JobApplicationLibrary.pdb
+C:\Users\MERT\RiderProjects\JobApplicationProject\JobApplicationLibrary\obj\Debug\net6.0\JobApplicationLibrary.csproj.AssemblyReference.cache
+C:\Users\MERT\RiderProjects\JobApplicationProject\JobApplicationLibrary\obj\Debug\net6.0\JobApplicationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERT\RiderProjects\JobApplicationProject\JobApplicationLibrary\obj\Debug\net6.0\JobApplicationLibrary.AssemblyInfoInputs.cache
+C:\Users\MERT\RiderProjects\JobApplicationProject\JobApplicationLibrary\obj\Debug\net6.0\JobApplicationLibrary.AssemblyInfo.cs
+C:\Users\MERT\RiderProjects\JobApplicationProject\JobApplicationLibrary\obj\Debug\net6.0\JobApplicationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MERT\RiderProjects\JobApplicationProject\JobApplicationLibrary\obj\Debug\net6.0\JobApplicationLibrary.dll
+C:\Users\MERT\RiderProjects\JobApplicationProject\JobApplicationLibrary\obj\Debug\net6.0\refint\JobApplicationLibrary.dll
+C:\Users\MERT\RiderProjects\JobApplicationProject\JobApplicationLibrary\obj\Debug\net6.0\JobApplicationLibrary.pdb
+C:\Users\MERT\RiderProjects\JobApplicationProject\JobApplicationLibrary\obj\Debug\net6.0\ref\JobApplicationLibrary.dll
